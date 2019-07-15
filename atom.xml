@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BLOG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-25T03:47:43.242Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/_/Tech/Hexo/hello-world/"/>
+    <id>http://yoursite.com/_/Tech/Hexo/hello-world/</id>
+    <published>2019-07-15T02:47:28.255Z</published>
+    <updated>2019-05-25T03:47:43.242Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>超级英雄 - PWA</title>
+    <link href="http://yoursite.com/_/Tech/Angular/super-pwa-hero/"/>
+    <id>http://yoursite.com/_/Tech/Angular/super-pwa-hero/</id>
+    <published>2019-05-27T02:45:02.000Z</published>
+    <updated>2019-07-15T03:36:10.871Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;官方教程&quot;&gt;&lt;a href=&quot;#官方教程&quot; class=&quot;headerlink&quot; title=&quot;官方教程&quot;&gt;&lt;/a&gt;官方教程&lt;/h2&gt;&lt;p&gt;前面已经讲了 &lt;a href=&quot;/_/Tech/Angular/pwa-get-started/&quot; title=&quot;怎样成为 
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="Angular" scheme="http://yoursite.com/tags/Angular/"/>
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+      <category term="PWA" scheme="http://yoursite.com/tags/PWA/"/>
+    
+      <category term="Tutorial" scheme="http://yoursite.com/tags/Tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怎样成为 “Angular” 英雄</title>
+    <link href="http://yoursite.com/_/Tech/Angular/become-an-angular-hero/"/>
+    <id>http://yoursite.com/_/Tech/Angular/become-an-angular-hero/</id>
+    <published>2019-05-25T06:18:38.000Z</published>
+    <updated>2019-05-27T04:34:28.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;PWA，第一步从Angular开始&quot;&gt;&lt;a href=&quot;#PWA，第一步从Angular开始&quot; class=&quot;headerlink&quot; title=&quot;PWA，第一步从Angular开始&quot;&gt;&lt;/a&gt;PWA，第一步从Angular开始&lt;/h2&gt;&lt;p&gt;我这里使用的 &lt;a 
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="Angular" scheme="http://yoursite.com/tags/Angular/"/>
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+      <category term="PWA" scheme="http://yoursite.com/tags/PWA/"/>
+    
+      <category term="Tutorial" scheme="http://yoursite.com/tags/Tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>猜猜我是谁？PWA.</title>
+    <link href="http://yoursite.com/_/Tech/Angular/pwa-get-started/"/>
+    <id>http://yoursite.com/_/Tech/Angular/pwa-get-started/</id>
+    <published>2019-05-25T02:20:11.000Z</published>
+    <updated>2019-05-27T04:33:08.059Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;你在草丛遭遇了-铁甲蛹&quot;&gt;&lt;a href=&quot;#你在草丛遭遇了-铁甲蛹&quot; class=&quot;headerlink&quot; title=&quot;你在草丛遭遇了 - 铁甲蛹&quot;&gt;&lt;/a&gt;你在草丛遭遇了 - 铁甲蛹&lt;/h2&gt;&lt;h3 id=&quot;你的小火龙使用了-利爪-效果一般&quot;&gt;&lt;a href
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="Angular" scheme="http://yoursite.com/tags/Angular/"/>
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+      <category term="PWA" scheme="http://yoursite.com/tags/PWA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows服务内存监听</title>
+    <link href="http://yoursite.com/_/Dev/windows-service-memory-detector/"/>
+    <id>http://yoursite.com/_/Dev/windows-service-memory-detector/</id>
+    <published>2019-05-22T02:04:59.000Z</published>
+    <updated>2019-05-27T04:34:28.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;一大早上班的时候，发现 chrome 浏览网页很卡，试着回收一下&lt;br&gt;&lt;/p&gt;&lt;figure class=&quot;highlight plain
+      
+    
+    </summary>
+    
+      <category term="foo系编程" scheme="http://yoursite.com/categories/foo%E7%B3%BB%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="CSharp" scheme="http://yoursite.com/tags/CSharp/"/>
+    
+      <category term="Windows" scheme="http://yoursite.com/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Game</title>
+    <link href="http://yoursite.com/_/GVan/hello-game/"/>
+    <id>http://yoursite.com/_/GVan/hello-game/</id>
+    <published>2019-05-21T11:21:36.000Z</published>
+    <updated>2019-05-27T04:34:28.217Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="🎮 SKILL" scheme="http://yoursite.com/categories/%F0%9F%8E%AE-SKILL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从Hexo开始</title>
+    <link href="http://yoursite.com/_/Tech/Hexo/begin-with-hexo/"/>
+    <id>http://yoursite.com/_/Tech/Hexo/begin-with-hexo/</id>
+    <published>2019-05-21T02:36:48.000Z</published>
+    <updated>2019-05-24T12:36:28.985Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;flag&quot;&gt;&lt;a href=&quot;#flag&quot; class=&quot;headerlink&quot; title=&quot;flag&quot;&gt;&lt;/a&gt;flag&lt;/h2&gt;&lt;p&gt;从 &lt;strong&gt;1558407365744&lt;/strong&gt; 开始, blog 开始启用, 用于记录日常学习的知识，还有
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
