@@ -6,10 +6,35 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-25T03:47:43.242Z</updated>
+  <updated>2019-07-16T05:40:46.756Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你需要知道的5个常见泛型</title>
+    <link href="http://yoursite.com/_/Tech/CSharp/5-common-Generics/"/>
+    <id>http://yoursite.com/_/Tech/CSharp/5-common-Generics/</id>
+    <published>2019-07-15T09:47:16.000Z</published>
+    <updated>2019-07-16T05:40:46.756Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;List&quot;&gt;&lt;a href=&quot;#List&quot; class=&quot;headerlink&quot; title=&quot;List&quot;&gt;&lt;/a&gt;List&lt;t&gt;&lt;/t&gt;&lt;/h2&gt;&lt;p&gt;表示为一个可以通过索引访问的列表，&lt;t&gt;说明它是泛型列表。相比数组(Array)，它的长度不是固定的，可以根据
+      
+    
+    </summary>
+    
+      <category term="技能加点" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BD%E5%8A%A0%E7%82%B9/"/>
+    
+    
+      <category term="CSharp" scheme="http://yoursite.com/tags/CSharp/"/>
+    
+      <category term="译文" scheme="http://yoursite.com/tags/%E8%AF%91%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -97,7 +122,7 @@
     <link href="http://yoursite.com/_/Tech/Angular/pwa-get-started/"/>
     <id>http://yoursite.com/_/Tech/Angular/pwa-get-started/</id>
     <published>2019-05-25T02:20:11.000Z</published>
-    <updated>2019-05-27T04:33:08.059Z</updated>
+    <updated>2019-07-15T09:48:03.778Z</updated>
     
     <summary type="html">
     
@@ -124,7 +149,7 @@
     <link href="http://yoursite.com/_/Dev/windows-service-memory-detector/"/>
     <id>http://yoursite.com/_/Dev/windows-service-memory-detector/</id>
     <published>2019-05-22T02:04:59.000Z</published>
-    <updated>2019-05-27T04:34:28.217Z</updated>
+    <updated>2019-07-15T09:48:03.778Z</updated>
     
     <summary type="html">
     
@@ -149,7 +174,7 @@
     <link href="http://yoursite.com/_/GVan/hello-game/"/>
     <id>http://yoursite.com/_/GVan/hello-game/</id>
     <published>2019-05-21T11:21:36.000Z</published>
-    <updated>2019-05-27T04:34:28.217Z</updated>
+    <updated>2019-07-15T09:48:03.778Z</updated>
     
     <summary type="html">
     
